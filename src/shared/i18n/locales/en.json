@@ -1,0 +1,77 @@
+{
+  "home": {
+    "jumbotron": {
+      "title": "Pavel Dvoryaninov",
+      "subTitle": "Frontend developer",
+      "description": "I develop applications with a focus on quality, performance and accessibility. Passionate about creating the best systems. Frontend developer at Intelligent Analytics.",
+      "button": "Contact me"
+    },
+    "about": {
+      "title": "About me",
+      "description": "Hello everyone, let's get to know each other"
+    },
+    "partners": {
+      "title": "Your project is in reliable hands",
+      "description": "I have been developing software for following companies"
+    },
+    "skills": {
+      "title": "Experience and knowledge",
+      "description": "I am confident in modern tools and technologies",
+      "showSkills": "Show all",
+      "hideSkills": "Hide",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "devops": "DevOps",
+      "tools": "Extra"
+    },
+    "contacts": {
+      "title": "Let's work together",
+      "description": "You can contact me by email, GitHub or Telegram"
+    },
+    "reviews": {
+      "title": "Feedbacks",
+      "description": "My colleagues highly appreciate my professional and personal qualities"
+    }
+  },
+  "projects": {
+    "title": "My projects",
+    "description": "This page presents the several of my personal and work projects. I develop a wide range of applications, each of which is aimed at achieving business goals of my clients.",
+    "errorTitle": "Projects not found",
+    "errorDescription": "Update search params"
+  },
+  "project": {
+    "gallery": "Gallery",
+    "about": "About the project",
+    "stack": "Technology stack",
+    "links": "Useful links",
+    "application": "Application",
+    "code": "Repository",
+    "button": "Go back"
+  },
+  "config": {
+    "page": "Page",
+    "prevPage": "Previous page",
+    "nextPage": "Next page",
+    "slide": "Slide",
+    "prevSlide": "Previous slide",
+    "nextSlide": "Next slide",
+    "openProject": "Open the project",
+    "changeLocale": "Change language",
+    "changeTheme": "Change theme",
+    "recentProjects": "Recent projects",
+    "allProjects": "All projects",
+    "openMenu": "Open menu",
+    "hideMenu": "Hide menu"
+  },
+  "metadata": {
+    "title": "Pavel Dvoryaninov",
+    "description": "Hello everyone, I am Pavel – Frontend developer from Moscow, specializing in creating high-quality applications.",
+    "projects": "Projects",
+    "project": "Project"
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "This is not the web page you are looking for",
+    "button": "Go back"
+  }
+}
